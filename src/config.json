@@ -1,9 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "ls.org.ledunet",
+    "appname": "LEduNet Mobile",
+    "desktopappname": "LEduNet Desktop",
     "versioncode": 3610,
-    "versionname": "3.6.1",
+    "versionname": "3.7.0",
     "cache_expiration_time": 300000,
     "default_lang": "en",
     "languages": {
