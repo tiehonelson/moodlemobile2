@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="ls.org.ledunet.ledunetmobile" version="3.6.1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>LeDuNet</name>
-    <description>LeDuNet official app</description>
+    <description>LEduNet official app</description>
     <author href="http://moodle.com" email="mobile@moodle.com">Moodle Mobile team</author>
     <content src="index.html" />
     <access origin="*" />
